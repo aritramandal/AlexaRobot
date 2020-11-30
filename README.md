@@ -1,6 +1,6 @@
-# Aʟᴇxᴀ
+# 𝙻𝙴𝙶𝙴𝙽𝙳 𝚁𝙾𝙱𝙾𝚃
 ![Alexa](https://telegra.ph/file/a5ec644be1e5ff9ac991c.jpg)
-Alexa Bot Advanced Telegram Group manager Bot created by [Duvvado Jagannadham](https://t.me/Beast_boy_shubu).
+𝙻𝚎𝚐𝚎𝚗𝚍 Bot Advanced Telegram Group manager Bot created by [𝘼𝙍𝙄𝙏𝙍𝘼 𝙈𝘼𝙉𝘿𝘼𝙇](https://t.me/YOU_ARE_UNDER_ARREST).
 # Aʙᴏᴜᴛ Aʟᴇxᴀ 
 Aʟᴇxᴀ ɪs ᴀ ᴀᴅᴠᴀɴᴄᴇᴅ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇʀ ʙᴏᴛ ɪᴛ ᴄᴀɴ ᴇᴀsɪʟʏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 # Hᴏᴡ ᴛᴏ Sᴇᴛᴜᴘ ᴀɴᴅ ᴅᴇᴘʟᴏʏ
